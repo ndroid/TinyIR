@@ -1,7 +1,7 @@
 # TinyNECRX
 https://github.com/ndroid/TinyIR
 
-Adaptation of TinyIRReceiver from Arduino IRRemote library <a href="https://github.com/Arduino-IRremote/"> 
+Adaptation of TinyIRReceiver from Arduino IRRemote library <a href="https://github.com/Arduino-IRremote/">https://github.com/Arduino-IRremote/</a>
 Modified to work with MSP432 boards in Energia.
 
 
